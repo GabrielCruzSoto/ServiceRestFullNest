@@ -21,13 +21,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://service-rest-full-nest.herokuapp.com/messages",
-					"protocol": "https",
+					"raw": "localhost:3000/messages",
 					"host": [
-						"service-rest-full-nest",
-						"herokuapp",
-						"com"
+						"localhost"
 					],
+					"port": "3000",
 					"path": [
 						"messages"
 					]
@@ -53,13 +51,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://service-rest-full-nest.herokuapp.com/messages",
-					"protocol": "https",
+					"raw": "localhost:3000/messages",
 					"host": [
-						"service-rest-full-nest",
-						"herokuapp",
-						"com"
+						"localhost"
 					],
+					"port": "3000",
 					"path": [
 						"messages"
 					]
@@ -82,13 +78,11 @@
 					}
 				},
 				"url": {
-					"raw": "https://service-rest-full-nest.herokuapp.com/messages/1",
-					"protocol": "https",
+					"raw": "localhost:3000/messages/1",
 					"host": [
-						"service-rest-full-nest",
-						"herokuapp",
-						"com"
+						"localhost"
 					],
+					"port": "3000",
 					"path": [
 						"messages",
 						"1"
@@ -103,13 +97,11 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "https://service-rest-full-nest.herokuapp.com/messages/1",
-					"protocol": "https",
+					"raw": "localhost:3000/messages/1",
 					"host": [
-						"service-rest-full-nest",
-						"herokuapp",
-						"com"
+						"localhost"
 					],
+					"port": "3000",
 					"path": [
 						"messages",
 						"1"
