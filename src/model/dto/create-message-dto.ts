@@ -1,4 +1,4 @@
 export class CreateMessageDto {
-    readonly nick: String;
-    readonly message: String;
+  readonly nick: string;
+  readonly message: string;
 }
